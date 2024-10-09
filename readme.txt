@@ -1,6 +1,6 @@
 Welcome to MyProject
 
-Author:Anu
+Author:Anu Tisarani
 
 <<<<<<< HEAD
 Twitter: @Anuhettigep
