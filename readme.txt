@@ -1,6 +1,6 @@
 Welcome to MyProject
 
-Author:Anu
+Author:Anu Hettige
 
 <<<<<<< HEAD
 Twitter: @Anuhettigep
