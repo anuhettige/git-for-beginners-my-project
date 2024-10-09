@@ -1,4 +1,4 @@
-Welcome to MyProject
+Welcome to My "Git for Beginners" Project
 
 
 Author:Anu Tisarani Hettige
